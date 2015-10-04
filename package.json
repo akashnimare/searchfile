@@ -15,9 +15,7 @@
     "findfiles"
   ],
   "author": {
-    "name": "Akash Nimare",
-    "email": "svnitakash@gmail.com",
-    "url": "http://akashnimare.in"
+    "name": "JavaScript Playground"
   },
   "bugs": {
     "url": "https://github.com/akashnimare/searchfile/issues"
