@@ -1,0 +1,33 @@
+{
+  "name": "searchfile",
+  "version": "2.0.0",
+  "description": "searches for files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "git://github.com/akashnimare/searchfile.git"
+  },
+  "keywords": [
+    "file",
+    "search",
+    "findfiles"
+  ],
+  "author": {
+    "name": "Akash Nimare",
+    "email": "svnitakash@gmail.com",
+    "url": "http://akashnimare.in"
+  },
+  "bugs": {
+    "url": "https://github.com/akashnimare/searchfile/issues"
+  },
+  "homepage": "https://github.com/akashnimare/searchfile",
+  "preferGlobal": true,
+  "bin": {
+    "searchfile": "index.js"
+  }
+}
+
+
+  
